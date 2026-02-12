@@ -6,13 +6,9 @@
 <p>this is a very bad piece of code alright use at your own risk it may delete everything you have or ever will have.</p>
 
 <h3>dependencies: pyautogui</h3>
-```sh
-pip3 install pyautogui
-```
 
 ```sh
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+pip3 install pyautogui
 ```
 
 
