@@ -10,9 +10,9 @@
 <ul>
 <li>pyautogui</li>
 </ul>
-```sh
+````sh
 pip3 install pyautogui
-```
+````
 
 <h2>How to use it</h2>
 
